@@ -220,25 +220,6 @@ const nextProject = {
 
 ---
 
-## 🚀 What's Next?
-
-<div align="center">
-
-```typescript
-const futureGoals = [
-  "🧪 Add testing framework",
-  "🎨 Advanced TypeScript patterns", 
-  "⚛️ React/Vue exploration",
-  "🌍 More language support",
-  "♿ Accessibility improvements",
-  "🏘️ Expand to neighboring villages"
-];
-```
-
-</div>
-
----
-
 ## 💡 Key Takeaway
 
 <div align="center">
@@ -253,7 +234,7 @@ const futureGoals = [
 
 <div align="center">
 
-### 🤝 Built with The Odin Project • Made with ❤️ for Niha Chouf
+### Made with ❤️ for Niha Chouf
 
 [![GitHub](https://img.shields.io/badge/Amir_Merchad-181717?style=for-the-badge&logo=github)](https://github.com/Amir-Merchad)
 [![GitHub](https://img.shields.io/badge/Yamen_Morcel-181717?style=for-the-badge&logo=github)](https://github.com/Yamen-M)
